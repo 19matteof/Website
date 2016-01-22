@@ -1,0 +1,52 @@
+body {
+    background-image: url(http://vignette2.wikia.nocookie.net/mrbean/images/4/4b/Mr_beans_holiday_ver2.jpg/revision/latest?cb=20100424114324);
+    background-size: 6%
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60pt
+}
+
+h2 {
+    color: black;
+    font-family: sans-serif
+}
+
+h3 {
+    color: black;
+    font-family: sans-serif
+}
+
+.dp1 {
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+
+.dp2 {
+    font-family: sans-serif;
+    font-size: 13pt;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10% 
+}
+    
+ol {
+    color: black;
+    font-family: sans-serif
+}
+
+#john {
+    width: 200px;
+    height: 200px;
+}
+
+.everything {
+    width: 90%;
+    right: 5%;
+    left: 5%;
+    position: relative;
+    background: white;
+}
